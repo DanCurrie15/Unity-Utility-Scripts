@@ -9,3 +9,6 @@
 
 # ScrollingText
  Text as game object scrolls up on awake
+
+# Command Pattern Starter
+ ICommand interface and CommandManager starter scripts
