@@ -12,3 +12,6 @@
 
 # Command Pattern Starter
  ICommand interface and CommandManager starter scripts
+
+# Publisher Subscriber Pattern Starter
+ EventBroker script with comments on how to get started
